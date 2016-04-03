@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YunnanCoffee]]></title>
+        <description><![CDATA[YunnanCoffee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 02:55:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7ac2fed-b55a-407a-9b7a-bb985a1ea9ad.jpg">]]></description>
+            <link>undefinedthree-generations-of-farmers-picking-cherries-today-mangzh/index.html</link>
+            <guid isPermaLink="false">c6c93034-d119-4537-ad22-c956cd31ab20</guid>
+            <pubDate>Sun, 03 Apr 2016 02:55:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
