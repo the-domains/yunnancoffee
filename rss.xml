@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[YunnanCoffee]]></title>
-        <description><![CDATA[YunnanCoffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Yunnan Coffee Traders Community]]></title>
+        <description><![CDATA[Yunnan Coffee Traders Community]]></description>
+        <link>https://thegrid.ai/yunnancoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 02:55:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 03:07:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yunnancoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e9158d7-e6ea-4b89-b8d5-a3766d7af3cb.jpg">]]></description>
+            <link>https://thegrid.ai/yunnancoffee/0fd0484f-0d23-40ae-8254-6d4d3d042345/index.html</link>
+            <guid isPermaLink="false">0fd0484f-0d23-40ae-8254-6d4d3d042345</guid>
+            <pubDate>Sun, 03 Apr 2016 03:07:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7ac2fed-b55a-407a-9b7a-bb985a1ea9ad.jpg">]]></description>
-            <link>undefinedthree-generations-of-farmers-picking-cherries-today-mangzh/index.html</link>
+            <link>https://thegrid.ai/yunnancoffee/three-generations-of-farmers-picking-cherries-today-mangzh/index.html</link>
             <guid isPermaLink="false">c6c93034-d119-4537-ad22-c956cd31ab20</guid>
             <pubDate>Sun, 03 Apr 2016 02:55:21 GMT</pubDate>
         </item>
