@@ -1,29 +1,41 @@
-name: YunnanCoffee
-favicon: null
-layout_spectrum: 0.50345
-typography_spectrum: 0.50864
 title: Yunnan Coffee Traders Community
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.672043
+  brandStrength: 0.344086
+  lightness: 0.1953405
   brandColors:
     - '#f2d4ca'
     - '#2c1625'
     - '#a96d53'
     - '#a4bd00'
     - '#d83252'
-  brandStrength: 0.6875
-  lightness: 0.4375
-  saturation: 0.25
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.5716846
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: YunnanCoffee
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.50864
+layout_spectrum: 0.50345
