@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.672043
+  saturation: 0
   brandStrength: 0.344086
-  lightness: 0.1953405
+  lightness: 0.6039426
   brandColors:
     - '#f2d4ca'
     - '#2c1625'
     - '#a96d53'
     - '#a4bd00'
     - '#d83252'
-  rhythmicContrast: 0.5716846
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: YunnanCoffee
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.50864
-layout_spectrum: 1
+layout_spectrum: 0.2240143
